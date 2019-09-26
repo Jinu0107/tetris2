@@ -11,6 +11,8 @@ import net.gondr.views.ScorePopupController;
 
 public class App extends Application 
 {
+	//주석만 달아줬음.
+	//이렇게 많이 코딩했은 게임하러 감.
 	public static App app;
 	public Game game = null;
 	
